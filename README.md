@@ -1,4 +1,4 @@
-# SSM Final Project
+# SSM Project
 
 ![](https://github.com/sivasankaranoffl/SSM-Final-Project/blob/main/src/assets/ssmlogo.png?raw=true)
 
